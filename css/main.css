@@ -63,11 +63,11 @@ main {
     opacity: 0.9;
 }
 
-info {
+.info {
     padding: 1em;
 }
 
-menu {
+.menu {
     padding: 1em;
     background-color: rgba(207, 205, 140, 0.5);
 }
@@ -82,7 +82,7 @@ dd {
     font-style: italic
 }
 
-about {
+.about {
     padding: 1em;
 }
 
